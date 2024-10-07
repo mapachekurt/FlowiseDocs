@@ -24,7 +24,7 @@
       * [Video Tutorials](using-flowise/agentflows/sequential-agents/video-tutorials.md)
   * [API](using-flowise/api.md)
   * [Analytic](using-flowise/analytic.md)
-  *    [Analytics Providers](using-flowise/analytic-providers.md)
+    * [Analytics Providers](using-flowise/analytic-providers.md)
   * [Document Stores](using-flowise/document-stores.md)
   * [Embed](using-flowise/embed.md)
   * [Streaming](using-flowise/streaming.md)
